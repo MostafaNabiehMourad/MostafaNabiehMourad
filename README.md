@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mostafa Nabieh</h1>
 <h3 align="center">Big Data Engineer</h3>
 
-- 🔭 I’m currently working on **Udacity**
+- 🔭 I’m currently working on **MCT**
 
-- 👯 I’m looking to collaborate on **Stream real time**
+- 👯 I’m looking to collaborate on **Stream real-time**
 
 - 💬 Ask me about **Big Data, Stream data, and Algorithm**
 
